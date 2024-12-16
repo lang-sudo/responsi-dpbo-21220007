@@ -1,0 +1,2 @@
+0 Anjing
+1 Kucing

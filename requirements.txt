@@ -1,1 +1,1 @@
-streamlit
+tensorflow==2.9.0
